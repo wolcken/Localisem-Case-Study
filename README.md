@@ -773,49 +773,53 @@ This distinction is intentional: planned functionality is not presented as compl
 
 ## Platform Screenshots
 
-> Selected screenshots can be added while ensuring that no personal, administrative or sensitive information is exposed.
+### Mobile Experience
 
-### Mobile Home
+<p align="center">
+  <img src="assets/mobile-home.jpg" alt="LOCALISEM Mobile Home" width="300">
+  <img src="assets/mobile-menu.jpg" alt="LOCALISEM Navigation" width="300">
+</p>
 
-<!--
-![LOCALISEM Mobile Home](assets/mobile-home.png)
--->
+The mobile application provides access to informational content, missing-person cases, locations, reporting and contact resources.
 
-### Search / Missing-person Listings
+---
 
-<!--
-![Missing-person Listings](assets/mobile-search.png)
--->
+### Educational Content
 
-### Case Detail
+<p align="center">
+  <img src="assets/educational-categories.jpg" alt="Educational Categories" width="300">
+  <img src="assets/educational-content.jpg" alt="Educational Content" width="300">
+</p>
 
-<!--
-![Case Detail](assets/mobile-detail.png)
--->
+Information is organized by audience and topic to provide structured prevention and guidance resources.
 
-### Reporting Workflow
+---
 
-<!--
-![Reporting Workflow](assets/mobile-report.png)
--->
+### Missing-person Workflows
 
-### Mobile Notifications
+<p align="center">
+  <img src="assets/missing-persons-demo.png" alt="Missing-person Search" width="300">
+  <img src="assets/case-detail-demo.png" alt="Case Detail" width="300">
+</p>
 
-<!--
-![Mobile Notifications](assets/mobile-notifications.png)
--->
+All personal information shown in these screenshots is fictional and used only for demonstration purposes.
 
-### Administration Dashboard
+---
 
-<!--
-![localisem-admin Dashboard](assets/admin-dashboard.png)
--->
+### Reporting & Geographic Services
 
-### Administration Management
+<p align="center">
+  <img src="assets/missing-person-report.jpg" alt="Missing-person Report" width="300">
+  <img src="assets/search-places.jpg" alt="Search Places" width="300">
+</p>
 
-<!--
-![localisem-admin Management](assets/admin-management.png)
--->
+---
+
+### Route Calculation
+
+<p align="center">
+  <img src="assets/routing.jpg" alt="Routing Integration" width="320">
+</p>
 
 ---
 
