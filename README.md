@@ -64,6 +64,10 @@ The architecture is organized around five main areas:
 
 The modernization effort focuses on strengthening all of these components while preserving the value of the existing product.
 
+<p align="center">
+  <img src="assets/mobile-home.jpg" alt="LOCALISEM Mobile App" width="320">
+</p>
+
 ---
 
 ## Product Architecture
